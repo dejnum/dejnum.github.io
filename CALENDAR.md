@@ -12,4 +12,4 @@ Synthèse et liens sur le PAD: [https://annuel.framapad.org/p/ykvT5eUndB](https:
 
 Présentation Pdf: [https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation0.pdf](https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation0.pdf)
 
-PODCAST Mp3: [http://web.media.mit.edu/~labrune/s/SessionNum0.mp3](http://web.media.mit.edu/~labrune/s/SessionNum0.mp3)
+PODCAST Mp3: [https://github.com/dejnum/dejnum.github.io/raw/master/medias/SessionNum0.mp3](https://github.com/dejnum/dejnum.github.io/raw/master/medias/SessionNum0.mp3)
