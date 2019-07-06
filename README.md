@@ -1,6 +1,6 @@
 # dejnum.github.io
 
-Chaque mois, une session pour préciser les contours d'un **[mot](https://annuel.framapad.org/p/LGih9QYbF3)** du numérique.
+Chaque mois, une session pour préciser les contours d'un **[mot](https://annuel.framapad.org/p/LGih9QYbF3)** du numérique et constituer progressivement un petit [lexique](/lexique/README.md).
 
 * Calendrier des [sessions](CALENDAR.md)
 * Présentation détaillée du [projet](PROJET.md).
