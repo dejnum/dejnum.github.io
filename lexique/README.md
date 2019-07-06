@@ -1,3 +1,3 @@
-#LEXIQUE
+# LEXIQUE
 
-0 > NUMERIQUE < [https://dejnum.github.io/lexique/0.numerique.html](https://dejnum.github.io/lexique/0.numerique.html)
+0 > NUMÉRIQUE < [https://dejnum.github.io/lexique/0.numerique.html](https://dejnum.github.io/lexique/0.numerique.html)
