@@ -8,6 +8,8 @@ Le thème de cette première session est un état des lieux de la pensée intell
 
 A partir de ces exemples, nous avons examiné différents types de pensées numériques francophones, médiatiques, universitaires, praticiennes et alternatives, notamment par rapport à leurs équivalents dans le monde. Nous avons discuté ensemble des différences et des spécificités des manières de penser le numérique en France, et de l'impact de ces théories et enquêtes hors de leurs contextes d'origine, notamment dans la sphère publique, au parlement et dans les médias.
 
+Synthèse: [https://github.com/dejnum/dejnum.github.io/tree/master/lexique/0.numerique.MD](https://github.com/dejnum/dejnum.github.io/tree/master/lexique/0.numerique.MD)
+
 Documentation et liens sur le PAD: [https://annuel.framapad.org/p/ykvT5eUndB](https://annuel.framapad.org/p/ykvT5eUndB)
 
 Présentation Pdf: [https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation0.pdf](https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation0.pdf)
