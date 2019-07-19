@@ -1,4 +1,4 @@
-<a name="s1"></a>SESSION #1 - **JEU VIDÉO à la rentrée à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
+<a name="s1"></a>SESSION #1 - **JEU VIDÉO - Fin Septembre 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
 
 <hr>
 
