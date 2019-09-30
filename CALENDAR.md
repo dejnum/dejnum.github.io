@@ -1,4 +1,8 @@
-<a name="s1"></a>SESSION #1 - **JEU VIDÉO - Fin Septembre 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
+<a name="s1"></a>SESSION #1 - **JEU VIDÉO - Vendredi 18 Octobre 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
+
+Cette deuxième session s'intéresse aux Jeuv Vidéos, à sa professionnalisation à la fois comme champs de création et économique mais également comme une discipline sportive (e-sport). Intervenant: Olivier Mauco ([@gameinsociety](https://twitter.com/GameinSociety)) pour 20 minutes de présentation suivi de 40 minutes de discussion ouverte. 
+
+Streaming: [https://www.twitch.tv/l4bs3n4t](https://www.twitch.tv/l4bs3n4t)
 
 <hr>
 
