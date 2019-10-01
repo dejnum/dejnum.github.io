@@ -4,6 +4,8 @@ Cette deuxième session s'intéresse aux Jeuv Vidéos, à sa professionnalisatio
 
 Streaming: [https://www.twitch.tv/l4bs3n4t](https://www.twitch.tv/l4bs3n4t)
 
+Inscription obligatoire avant le 12 octobre sur [cette page](https://forum.en-root.org/t/journee-atelier-au-senat-2/36) pour permettre aux services du Sénat de vous enregistrer à l'accueil.
+
 <hr>
 
 <a name="s0"></a>SESSION #0 - **NUMÉRIQUE - Vendredi 28 Juin 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
