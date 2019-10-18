@@ -1,10 +1,18 @@
-<a name="s1"></a>SESSION #1 - **JEU VIDÉO - Vendredi 18 Octobre 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
+<a name="s2"></a>SESSION #2 - **UX Design - Vendredi 22 Novembre 2019 à 12h au Sénat, adresse TBC**
 
-Cette deuxième session s'intéresse aux Jeuv Vidéos, à sa professionnalisation à la fois comme champs de création et économique mais également comme une discipline sportive (e-sport). Intervenant: Olivier Mauco ([@gameinsociety](https://twitter.com/GameinSociety)) pour 20 minutes de présentation suivi de 40 minutes de discussion ouverte. 
+Cette troisième session se focalise sur la conception de l'expérience utilisateur (User Experience Design) de sites internet et d'applications avec un accent sur le design universel et accessible (Universal Design) et les "Design Systems". Intervenante: Akemi Tazaki ([@https://twitter.com/atazaki](https://twitter.com/atazaki)) pour 20 minutes de présentation suivi de 40 minutes de discussion ouverte. 
 
 Streaming: [https://www.twitch.tv/l4bs3n4t](https://www.twitch.tv/l4bs3n4t)
 
-Inscription obligatoire avant le 12 octobre sur [cette page](https://forum.en-root.org/t/journee-atelier-au-senat-2/36) pour permettre aux services du Sénat de vous enregistrer à l'accueil.
+Inscription obligatoire avant le 15 novembre sur [cette page](https://forum.en-root.org/t/journee-atelier-au-senat-2/43) pour permettre aux services du Sénat de vous enregistrer à l'accueil.
+
+<hr>
+
+<a name="s1"></a>SESSION #1 - **JEU VIDÉO - Vendredi 18 Octobre 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
+
+Cette deuxième session s'intéresse aux Jeux Vidéos, à sa professionnalisation à la fois comme champs de création et économique mais également comme une discipline sportive (e-sport). Intervenant: Olivier Mauco ([@gameinsociety](https://twitter.com/GameinSociety)) pour 20 minutes de présentation suivi de 40 minutes de discussion ouverte. 
+
+Présentation Pdf: [https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation0.pdf](https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation0.pdf)
 
 <hr>
 
