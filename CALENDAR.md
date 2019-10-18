@@ -1,6 +1,6 @@
 <a name="s2"></a>SESSION #2 - **UX Design - Vendredi 22 Novembre 2019 à 12h au Sénat, adresse TBC**
 
-Cette troisième session se focalise sur la conception de l'expérience utilisateur (User Experience Design) de sites internet et d'applications avec un accent sur le design universel et accessible (Universal Design) et les "Design Systems". Intervenante: Akemi Tazaki ([@https://twitter.com/atazaki](@atazaki)) pour 20 minutes de présentation suivi de 40 minutes de discussion ouverte. 
+Cette troisième session se focalise sur la conception de l'expérience utilisateur (User Experience Design) de sites internet et d'applications avec un accent sur le design universel et accessible (Universal Design) et les "Design Systems". Intervenante: Akemi Tazaki ([@atazaki](https://twitter.com/atazaki)) pour 20 minutes de présentation suivi de 40 minutes de discussion ouverte. 
 
 Streaming: [https://www.twitch.tv/l4bs3n4t](https://www.twitch.tv/l4bs3n4t)
 
