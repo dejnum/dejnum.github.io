@@ -12,7 +12,7 @@ Inscription obligatoire avant le 15 novembre sur [cette page](https://forum.en-r
 
 Cette deuxième session s'intéresse aux Jeux Vidéos, à sa professionnalisation à la fois comme champs de création et économique mais également comme une discipline sportive (e-sport). Intervenant: Olivier Mauco ([@gameinsociety](https://twitter.com/GameinSociety)) pour 20 minutes de présentation suivi de 40 minutes de discussion ouverte. 
 
-Présentation Pdf: [https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation0.pdf](https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation0.pdf)
+Présentation Pdf: [https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation1.pdf](https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation1.pdf)
 
 <hr>
 
