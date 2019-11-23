@@ -1,10 +1,18 @@
+<a name="s3"></a>SESSION #3 - **Sujet TBA - Vendredi 20 Décembre 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
+
+Thématique annoncée prochainement.
+
+Inscription obligatoire avant le 15 décembre sur [cette page](https://forum.en-root.org/t/journee-atelier-au-senat-3/117) pour permettre aux services du Sénat de vous enregistrer à l'accueil.
+
+<hr>
+
 <a name="s2"></a>SESSION #2 - **UX DESIGN - Vendredi 22 Novembre 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
 
 Cette troisième session se focalise sur la conception de l'expérience utilisateur (User Experience Design) de sites internet et d'applications avec un accent sur le design universel et accessible (Universal Design) et les "Design Systems". Intervenante: Akemi Tazaki ([@atazaki](https://twitter.com/atazaki)) pour 20 minutes de présentation suivi de 40 minutes de discussion ouverte. 
 
 Streaming: [https://www.twitch.tv/l4bs3n4t](https://www.twitch.tv/l4bs3n4t)
 
-Inscription obligatoire avant le 15 novembre sur [cette page](https://forum.en-root.org/t/journee-atelier-au-senat-2/43) pour permettre aux services du Sénat de vous enregistrer à l'accueil.
+Présentation Pdf: [https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation2.pdf](https://github.com/dejnum/dejnum.github.io/raw/master/medias/presentation2.pdf)
 
 <hr>
 
