@@ -1,6 +1,6 @@
 <a name="s3"></a>SESSION #3 - **Sujet TBA - Vendredi 20 Décembre 2019 à 12h au Sénat, 77 rue Bonaparte 75006 Paris**
 
-Thématique annoncée prochainement.
+Le thème de cette quatrième session est la programmation créative et la pédagogie informatique pour les non-experts, notamment via l'exemple des [Goûters de Programmation](https://codinggouter.org/doku.php).
 
 Inscription obligatoire avant le 15 décembre sur [cette page](https://forum.en-root.org/t/journee-atelier-au-senat-3/117) pour permettre aux services du Sénat de vous enregistrer à l'accueil.
 
